@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1480
     wikipedia: http://en.wikipedia.org/wiki/Kirk_Munroe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19223#At-War-with-Pontiac--Or-The-Totem-of-the-Bear--A-Tale-of-Redcoat-and-Redskin
 gutenberg_issued: '2006-09-09'
 gutenberg_type: Text
 identifiers:
